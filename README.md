@@ -7,5 +7,7 @@ Ce programme a pour objectif de lire les définitions de tous les mots qui sont 
 Le portail CNRTL n'offrant pas d'API publique en lecture (en tout cas à l'époque en 2018), il a fallu développer ce programme de 'leech', en prenant garde à ne pas dépasser des seuils de requète/seconde pour éviter de déclencher les blocages andti-DOS du serveur web. C'est donc un leeach lent et controllé.
 
 Programme principal : cnrtl_leech.py
+
 Fonctions : fonctions.py
+
 Programme additonnel : concatene_dicos.py
