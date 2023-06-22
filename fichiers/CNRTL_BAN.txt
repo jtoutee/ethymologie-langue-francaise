@@ -1,0 +1,89 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+	<head>
+		<meta name="verify-v1" content="358d1rrPk72bRTMTomCxUKmUTqa92vTDZ45En2MkoYM=" />
+		<meta http-equiv="content-language" content="fr" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="index,follow" />
+		<meta name="keywords" content="etymologie, ALLER" />
+		<title>ALLER : Etymologie de ALLER</title>
+		<link type="image/x-icon" rel="icon" href="/favicon.ico" />
+		<link type="text/css" rel="stylesheet" media="all" href="/css/stylev24.css" />
+		<link type="application/opensearchdescription+xml" rel="search" title="Portail Lexical - CNRTL" href="/portail/opensearch.xml" />
+	  <link rel="alternate" type="application/rss+xml" href="http://www.cnrtl.fr/portail/rssmotdujour.php" />
+		<link type="text/css" rel="stylesheet" media="all" href="/css/portailv24.css" />
+		<script type="text/javascript" src="/js/overlib.js"></script>
+		<script type="text/javascript" src="/js/utilitiesv25.js"></script>
+	</head>
+	<body onload="initPortail();">
+		<div id="wrap">
+			<div id="header">
+				<map name="Map" id="id_map">
+					<area shape="rect" coords="15,5,170,40" href="http://www.cnrtl.fr" alt="Accueil du CNRTL" />
+					<area shape="rect" coords="780,35,825,80" href="http://www.cnrs.fr" alt="Site du CNRS" />
+					<area shape="rect" coords="830,35,890,80" href="http://www.atilf.fr" alt="Site de l'ATILF" />
+				</map>
+				<img src="/images/css/bandeau.jpg" alt="" usemap="#Map"/>
+			</div>
+			<div id="nav">
+				<ul>
+					<li class="sep">&nbsp;</li>
+					<li><a href="/"><img src="/images/css/PointR.jpg" alt=""/>Accueil</a></li>
+					<li class="sep current_left">&nbsp;</li>
+					<li class="current"><a href="/portail/"><img src="/images/css/PointR.jpg" alt=""/>Portail lexical</a></li>
+					<li class="sep current_right">&nbsp;</li>
+					<li><a href="/corpus/"><img src="/images/css/PointR.jpg" alt=""/>Corpus</a></li>
+					<li class="sep">&nbsp;</li>
+					<li><a href="/lexiques/"><img src="/images/css/PointR.jpg" alt=""/>Lexiques</a></li>
+					<li class="sep">&nbsp;</li>
+					<li><a href="/dictionnaires/"><img src="/images/css/PointR.jpg" alt=""/>Dictionnaires</a></li>
+					<li class="sep">&nbsp;</li>
+					<li><a href="/metalexicographie/"><img src="/images/css/PointR.jpg" alt=""/>Métalexicographie</a></li>
+					<li class="sep">&nbsp;</li>
+					<li><a href="/outils/"><img src="/images/css/PointR.jpg" alt=""/>Outils</a></li>
+					<li class="sep">&nbsp;</li>
+					<li><a href="mailto:contact@cnrtl.fr?subject=CNRTL"><img src="/images/css/PointR.jpg" alt=""/>Contact</a></li>
+					<li class="sep">&nbsp;</li>
+				</ul>
+			</div>		
+			<div id="main_content">
+<div class="largebox box">
+	<h2>BLOCAGE TEMPORAIRE</h2>
+	<p>Votre adresse IP <b>74.57.244.226</b> est bloquée temporairement pendant une heure pour cause d'utilisation abusive de notre portail.</p>
+	<p>Merci de nous <a href="mailto:contact@cnrtl.fr?subject=CNRTL-BLOCAGE">contacter</a> pour régler le problème.</p>
+</div>
+<div class="largebox box">
+        <h2>TEMPORARY BAN</h2>
+        <p>Your IP address <b>74.57.244.226</b> has been blocked for an hour to prevent further abuse of our portal.</p>                                      
+		<p>Please <a href="mailto:contact@cnrtl.fr?subject=CNRTL-BLOCAGE">contact</a> us to fix the problem.</p>
+</div>                                                                                                                                                                                                           			</div>
+			<div id="footer">
+				<div id="footerleft">
+					<a href="http://www.lorraine.pref.gouv.fr/index.php?headingid=112">
+						<img src="/images/accueil/Logo_Feder_Lorraine_h50.jpg" border="0" alt=""/>
+					</a>
+					<a href="http://www.huma-num.fr">
+						<img src="/images/accueil/logohumanum.png" align="top" border="0" height="50" alt=""/>
+					</a>
+					<a href="http://www.msh-lorraine.fr">
+						<img src="/images/accueil/msh.jpg" align="top" border="0" alt=""/>
+					</a>
+				</div>
+				<div id="footerright">
+					<a href="http://validator.w3.org/check?uri=referer">
+						<img src="/images/css/xhtml10.png" border="0" alt="Valid XHTML 1.0 Strict"/>
+					</a>
+					<a href="http://jigsaw.w3.org/css-validator/">
+						<img src="/images/css/vcss.png" border="0" alt="Valid Cascading Style Sheet"/>
+					</a>
+				</div>
+				<p>
+					© 2012 - CNRTL<br />
+					44, avenue de la Libération BP 30687 54063 Nancy Cedex - France<br />
+					Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56
+				</p>
+			</div>
+		</div>
+	</body>
+</html>
